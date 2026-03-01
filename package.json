@@ -1,0 +1,12 @@
+{
+  "name": "ivas-closet",
+  "version": "1.0.0",
+  "description": "IVAS Closet - Premium Fashion E-Commerce",
+  "scripts": {
+    "dev": "npx serve . -p 3000 --no-clipboard",
+    "start": "npx serve . -p 3000",
+    "live": "npx live-server --port=3000 --open=index.html"
+  },
+  "keywords": ["fashion", "ecommerce", "kenya"],
+  "author": "IVAS Closet"
+}
